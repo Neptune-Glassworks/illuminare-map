@@ -1,1 +1,0 @@
-# illuminare-map
